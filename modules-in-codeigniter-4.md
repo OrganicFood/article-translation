@@ -1,4 +1,4 @@
-# CodeIgniter 4 - 模块结构
+# CodeIgniter 4 的模块结构
 
 > 原文: [Modules in CodeIgniter 4](http://blog.newmythmedia.com/blog/show/2016-03-15_Modules_in_CodeIgniter_4)
 
