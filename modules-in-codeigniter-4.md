@@ -2,7 +2,7 @@
 
 > 原文: [Modules in CodeIgniter 4](http://blog.newmythmedia.com/blog/show/2016-03-15_Modules_in_CodeIgniter_4)
 
-在我们在过去几个月中讨论关于 CodeIgniter 4 功能时， HMVC成为了最大的焦点之一。 总结下来大多数的观点对如何应用HMVC到框架中可以被细分成2类: 
+在我们在过去几个月中讨论关于 CodeIgniter 4 的功能时， HMVC成为了最大的焦点之一。 总结下来大多数的观点对如何应用HMVC到框架中可以被细分成2类: 
 
 1. 在页面中用来呈现 “部件”
 2. 把代码封装成基本的模块
